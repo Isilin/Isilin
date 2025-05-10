@@ -20,7 +20,7 @@
 
 ## Stats
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isilin" alt="isilin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isilin&row=2&column=5" alt="isilin" /></a> </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=isilin&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="isilin" height=150 /> <img src="https://github-readme-stats.vercel.app/api?username=isilin&show_icons=true&locale=en&theme=dark&hide_border=true" alt="isilin" height=150 /></p>
 
